@@ -1,0 +1,34 @@
+_repo: Transactions-of-the-American-Society-of-Civil-Engineers-Vol.-LXVIII-Sept.-1910The-North-River__42149
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hewett, Bertram Henry Majendie
+    alias: Hewett, B. H. M.
+    gutenberg_agent_id: '41549'
+    url: http://www.gutenberg.org/2009/agents/41549
+  - agent_name: Brown, W. L.
+    gutenberg_agent_id: '41550'
+    url: http://www.gutenberg.org/2009/agents/41550
+description: ''
+gutenberg_issued: '2013-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civil engineering -- Periodicals'
+- !lcc 'TA'
+- !lcsh 'Railroad tunnels -- Design and construction'
+title: 'Transactions of the American Society of Civil Engineers, Vol. LXVIII, Sept.
+  1910
+
+  The New York Tunnel Extension of the Pennsylvania Railroad.
+
+  The North River Tunnels. Paper No. 1155'
+url: http://www.gutenberg.org/ebooks/42149
